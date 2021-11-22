@@ -1,0 +1,41 @@
+.addTaskForm{
+    float:left;
+    width: 40%;
+    background-color: rgb(247, 246, 245);
+    display:table-column;
+    margin-top: 50px;
+    margin-left:500px;
+    border-radius: 5px;
+    justify-content: center;
+}
+.mb-3{
+    width:100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:larger;   
+}
+.taskLabel{
+font-style: normal;
+margin-right: 15px;
+}
+.radioLabel1{
+    font-style: normal;
+    margin-right: 255px;
+    margin-top: 30px;
+}
+.radioLabel2{
+    font-style: normal;
+    margin-top: -22px;
+    margin-bottom: 20px;
+}
+.formTextArea{
+    margin-top: 10px;
+}
+.addButton{
+    padding: 10px 20px;
+    border-radius: 3px;
+    margin-right: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style:normal;
+
+}

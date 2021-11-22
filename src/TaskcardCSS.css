@@ -1,0 +1,43 @@
+.Container{
+    float:left;
+    width: 80%;
+    background-color: rgb(247, 246, 245);
+    display:table-column;
+    margin-left:200px;
+    border-radius: 5px;
+    justify-content: center;
+    text-align: center;
+    
+}
+.Row{
+    width:50%;
+    background-color:lightgoldenrodyellow;
+    align-items: center;
+   justify-content: center;
+   text-align: center;
+   border-radius: 8px;
+   font-style: normal;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: larger;
+   margin-left: 300px;
+
+}
+
+.title{
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color:black
+}
+.mb-2{
+    margin-left: 400px;
+    margin-top: 10px;
+}
+.addButton1{
+    padding: 20px 30px;
+    border-radius: 60px;
+    margin-right: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style:normal;
+}

@@ -1,0 +1,3 @@
+export const ADDNEWTASK= "ADDNEWTASK"
+export const FILTERACT="FILTERACT"
+export const EDITTASK="EDITTASK"
